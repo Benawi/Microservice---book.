@@ -1,12 +1,6 @@
 Microservice Sample
 ==============
 
-<details>
-<summary>Translations:</summary>
-
-- [German / Deutsch](LIESMICH.md)
-
-</details>
 
 This is a sample for my
 Microservices Book ([English](http://microservices-book.com/) / [German](http://microservices-buch.de/)).
@@ -48,12 +42,6 @@ Compose](docker/README.md).
 
 [How to run](HOW-TO-RUN.md) includes more details.
 
-<details>
-<summary>Translations:</summary>
-
-- [German / Deutsch](WIE-LAUFEN.md)
-
-</details>
 
 
 Remarks on the Code
