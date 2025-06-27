@@ -2,8 +2,8 @@ Microservice Sample
 ==============
 
 
-This is a sample for my
-Microservices Book ([English](http://microservices-book.com/) / [German](http://microservices-buch.de/)).
+This is a sample for 
+Microservices Book .
 
 This project creates a VM with the complete micro service demo system
 in Docker containers inside a Vagrant VM. The services are implemented
